@@ -66,6 +66,7 @@ body {
     list-style-type: none;
     padding: 0;
     font-size: 0;
+    border: solid white 3px;
 }
 
 .block-forecast .cities li {
@@ -75,7 +76,7 @@ body {
     color: white;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 25px;
-    border: 6px white solid;
+    border: 3px white solid;
     /* margin: -6px; */
     padding: 30px 0;
 }
